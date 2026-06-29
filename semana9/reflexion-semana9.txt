@@ -1,0 +1,10 @@
+Es importante que las plataformas tecnológicas que usan las comunidades funcionen de manera estable y segura en un servidor.
+Esto garantiza que los usuarios puedan acceder al sistema en cualquier momento.
+Un servidor estable evita caídas que afecten la participación ciudadana.
+La seguridad protege la información de los usuarios y los datos del sistema.
+Además, los logs permiten identificar errores y mejorar el funcionamiento.
+El uso de puertos organizados facilita la comunicación entre cliente y servidor.
+Node.js permite construir aplicaciones rápidas y eficientes.
+La estabilidad del servidor mejora la confianza en la plataforma.
+Sin seguridad y monitoreo, el sistema puede fallar o ser vulnerable.
+Por eso es clave mantener buenas prácticas en servidores comunitarios.
