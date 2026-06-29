@@ -1,0 +1,20 @@
+Al enviar una petición POST a:
+
+http://localhost:3000/registro
+
+Con el siguiente JSON:
+
+{
+  "nombre": "Maria",
+  "mensaje": "Hola comunidad"
+}
+
+El servidor devuelve la siguiente respuesta:
+
+{
+  "estado": "Datos recibidos",
+  "nombre": "Maria",
+  "mensaje": "Hola comunidad"
+}
+
+Esta respuesta confirma que el servidor recibió correctamente los datos enviados y los devolvió en formato JSON.
