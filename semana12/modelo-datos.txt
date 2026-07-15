@@ -1,0 +1,23 @@
+Entidad: Solicitud
+
+Campos principales:
+- id
+- asunto
+- descripcion
+- categoria
+- fecha
+
+Propósito:
+Guardar las solicitudes o necesidades registradas por los ciudadanos para que puedan ser revisadas y atendidas.
+
+
+Entidad: Participacion
+
+Campos principales:
+- id
+- solicitud_id
+- usuario
+- fecha
+
+Propósito:
+Registrar la participación de los ciudadanos en cada solicitud, permitiendo llevar un control de las personas que brindan su apoyo.

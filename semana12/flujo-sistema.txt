@@ -1,0 +1,5 @@
+1. Un ciudadano registra una nueva causa mediante un formulario en la plataforma.
+2. El sistema almacena la información de la causa en la base de datos.
+3. Los demás usuarios pueden consultar las causas disponibles y seleccionar una para apoyarla.
+4. Cada apoyo registrado actualiza automáticamente el contador de la causa.
+5. Cuando la causa reúne los apoyos necesarios, el sistema genera un documento PDF con la información para presentarla de forma oficial.

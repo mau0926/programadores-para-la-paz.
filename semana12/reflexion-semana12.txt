@@ -1,0 +1,8 @@
+Durante este curso aprendí que la tecnología puede facilitar la participación ciudadana mediante herramientas sencillas y accesibles.
+También comprendí la importancia de organizar la información utilizando bases de datos para mantener un registro confiable.
+Conocí cómo las metodologías ágiles ayudan a planificar y desarrollar proyectos de forma ordenada.
+Aprendí que la autenticación de usuarios es fundamental para proteger el acceso a una plataforma.
+Además, entendí que la automatización con herramientas como n8n y Telegram puede agilizar procesos y mejorar la comunicación.
+La generación automática de documentos permite presentar la información de manera más organizada y profesional.
+Igualmente, comprendí la importancia de proteger los datos personales para garantizar la privacidad de los usuarios.
+En conjunto, estos conocimientos muestran cómo la tecnología puede fortalecer la organización comunitaria y apoyar la participación ciudadana de forma segura y eficiente.
