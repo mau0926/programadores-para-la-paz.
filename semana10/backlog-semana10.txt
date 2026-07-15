@@ -1,0 +1,9 @@
+Como ciudadano quiero reportar un problema en mi barrio para que las autoridades puedan atenderlo.
+
+Como coordinador quiero recibir una notificación cuando se registre un nuevo reporte para asignar su revisión.
+
+Como integrante del equipo quiero visualizar la lista de reportes pendientes para organizar el seguimiento.
+
+Como ciudadano quiero consultar el estado de mi reporte para saber si ya está siendo atendido.
+
+Como administrador quiero marcar un reporte como resuelto para mantener actualizada la información del sistema.

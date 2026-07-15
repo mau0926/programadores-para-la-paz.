@@ -1,0 +1,11 @@
+¿Qué evento activa el flujo?
+
+Evento: un ciudadano envía una nueva solicitud de apoyo comunitario.
+
+¿Qué mensaje se enviaría a Telegram?
+
+Mensaje: "Se registró una nueva solicitud comunitaria. Ingrese al sistema para revisarla."
+
+¿Qué información no debería enviarse por seguridad?
+
+No deben enviarse nombres completos, números de identificación, direcciones, números de teléfono, contraseñas, correos electrónicos ni cualquier otro dato personal o sensible.
