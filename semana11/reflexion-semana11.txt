@@ -1,0 +1,8 @@
+Una plataforma de participación ciudadana necesita una base de datos para almacenar la información de manera organizada y facilitar su consulta.
+La autenticación de usuarios permite identificar quién accede al sistema y controlar los permisos de cada persona.
+Esto ayuda a evitar que usuarios no autorizados modifiquen o eliminen información importante.
+También es fundamental proteger los datos personales para respetar la privacidad de los ciudadanos.
+La seguridad de la información genera mayor confianza en quienes utilizan la plataforma.
+Además, una buena organización de los datos facilita el seguimiento de las causas y los reportes.
+La combinación de estas herramientas contribuye a un sistema más seguro, confiable y eficiente.
+De esta manera, se fortalece la participación ciudadana mediante una gestión responsable de la información.

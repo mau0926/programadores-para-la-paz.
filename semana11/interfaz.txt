@@ -1,0 +1,7 @@
+La interfaz contaría con un formulario donde los usuarios puedan crear una nueva causa ingresando el título, la descripción y la ubicación del problema.
+
+Debajo del formulario se mostraría una lista con todas las causas registradas para que la comunidad pueda consultarlas fácilmente.
+
+Cada causa incluiría un botón para brindar apoyo y un contador que indique la cantidad de personas que la respaldan.
+
+El diseño sería sencillo, organizado y fácil de utilizar, mostrando únicamente la información necesaria y evitando exponer datos personales de los usuarios.
